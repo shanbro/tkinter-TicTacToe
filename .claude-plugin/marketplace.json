@@ -1,0 +1,7 @@
+{
+  "name": "shanbro-tools",
+  "owner": { "name": "shanbro" },
+  "plugins": [
+    { "name": "prompt-polish", "source": "./prompt-polish", "description": "Improve prompt button: rewrites a draft question into a structured AI prompt" }
+  ]
+}
