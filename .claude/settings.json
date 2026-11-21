@@ -1,0 +1,10 @@
+{
+  "extraKnownMarketplaces": {
+    "shanbro-tools": {
+      "source": { "source": "github", "repo": "shanbro/tkinter-tictactoe" }
+    }
+  },
+  "enabledPlugins": {
+    "prompt-polish@shanbro-tools": true
+  }
+}

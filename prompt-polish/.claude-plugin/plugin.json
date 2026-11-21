@@ -1,0 +1,1 @@
+{ "name": "prompt-polish", "version": "0.1.0", "description": "A button above the prompt box that rewrites your draft question into a clear, well-structured AI prompt", "types": "./types/index.d.ts" }
